@@ -1,5 +1,5 @@
 # FileCopy
-Copies a file's contents and writes them to a new file
+Copies a file's contents and writes them to a new file. Written in C.
 
 # Usage
 First make the file
